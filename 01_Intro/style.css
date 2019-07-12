@@ -1,0 +1,23 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    text-decoration-line: none;
+    color: rgb(230, 120, 200);
+}
+
+img{
+
+    width: 24px;
+    height: 24px;
+}
+.MeFB{
+    width: 200px;
+    height: auto;
+    ;
+}
+
+a{
+    text-decoration: none;
+    text-decoration-color: rgb(15, 157, 182) ;
+    text-decoration-line: none;
+}

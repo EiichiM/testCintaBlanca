@@ -1,0 +1,69 @@
+body{
+    border: solid2px green;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://conceptodefinicion.de/wp-content/uploads/2016/11/Cosmos.jpg);
+    background-size: cover;
+    background-position: center center;
+
+}
+.input-con{
+    border: solid 2px  blue;
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.input-con > input{
+    width: 250px;
+    background: #000000;
+    color: #fff;
+    border: solid black ;
+    padding: 25px;
+    border-radius: 20px;
+    height: 50px;
+
+
+}
+.input-con > input::placeholder{
+    padding: 25px;
+    color: #fff;
+    background: #000000 
+}
+.input-con > label{
+    margin-top: 20px;
+    color: #fff;
+    
+}
+.input-con > button{
+    margin-top: 20px;
+    border: solid #000000 2px;
+    background: #000000;
+    color: #fff;
+    border-radius: 30px;
+
+}
+.input-con > button:hover{
+    border: solid rgba(241, 241, 241, 0.568) 2px;
+    background: #fff;
+    color: #000000;
+    border-radius: 30px;
+}
+.card-con{
+    
+    width: 50%;
+    border: solid 2px red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    
+
+}
+.desaparecer{
+    display: none;
+
+}

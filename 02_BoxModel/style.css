@@ -1,0 +1,42 @@
+h1{
+    border: solid 1px black;
+    display: inline-block;
+    padding: 15px;
+    margin-right: 15px
+}
+h2{
+    border: solid 1px pink;
+    display: inline-block;
+    width: 50%;
+    height: 200px;
+    background: aquamarine;
+    margin: 0%;
+    margin-block-start: 0;
+    margin-left: 10%
+    margin-top: inherit;
+}
+p{
+    border: solid 1px brown;
+    margin: 10px 17px 20px 20px;
+
+}
+a{
+    border: solid 1px aqua;
+}
+.Seccion1{
+    border: solid 1px blue;
+    width: 50%;
+    height: 50px;
+}
+
+.Seccion2{
+    border: solid 1px red;
+    text-align: center;
+    width: 30%;
+    height: 50px;
+}
+.Seccion3{
+    border: solid greenyellow;
+    width: 300px
+
+}

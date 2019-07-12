@@ -1,0 +1,110 @@
+.contenedor{
+    border: 1px solid black;
+    width: 2500px;
+    height: 2500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.grandpa{
+    border: 1px solid black;
+    width: 1000px;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.father{
+    border: 1px solid red;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.mother{
+    border: 1px solid blue;
+    width: 250px;
+    height:250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.bro{
+    border: 1px solid green;
+    width: 250px;
+    height:250px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.son{
+    border: 1px solid pink;
+    width: 100px;
+    height:100px ;
+    display: flex;
+}
+.sis{
+    border: 1px solid purple;
+    width: 100px;
+    height:100px ;
+    display: flex;
+}
+.prim{
+    border: 1px solid yellow;
+    width:100px ;
+    height:100px ;
+    display: flex;
+}
+.gm{
+    border: 1px solid black;
+    width: 1000px;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.ft{
+    border: 1px solid red;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.mt{
+    border: 1px solid blue;
+    width: 250px;
+    height:250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.br{
+    border: 1px solid green;
+    width: 250px;
+    height:250px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.sn{
+    border: 1px solid pink;
+    width: 100px;
+    height:100px ;
+    display: flex;
+}
+.ss{
+    border: 1px solid purple;
+    width: 100px;
+    height:100px ;
+    display: flex;
+}
+.prm{
+    border: 1px solid yellow;
+    width:100px ;
+    height:100px ;
+    display: flex;
+}

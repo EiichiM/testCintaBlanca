@@ -1,0 +1,30 @@
+.contenedor{
+    border: 1px solid;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+.father{
+    border: 1px solid green;
+    width: 100px;
+    height: 100px;
+
+}
+
+.mother{
+    border: 1px solid red;
+    width: 100px;
+    height: 100px   ;
+
+}
+.son{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
