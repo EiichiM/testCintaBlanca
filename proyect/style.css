@@ -1,0 +1,141 @@
+body{
+    /* border: solid 2px green; */
+    background-color:rgba(182, 178, 178, 0.507)
+}
+main{
+    /* border: solid 2px blue; */
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.frm{
+    /* border: solid 2px red; */
+    width: 70%;
+    
+}
+.titu{
+    /* border: solid 2px; */
+    text-align: center;
+    text-emphasis: black;
+}
+.cv{
+    /* border: solid 2px orange; */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+.card-body > h1{
+    text-align: center;
+    font-size: 20px;
+}
+.img-d{
+    /* border: solid 2px grey; */
+    width: 100%;
+    display: flex;
+
+}
+.img-a{
+    /* border: solid 2px purple; */
+    width: 250px;
+    
+    display: flex;
+   
+}
+.text{
+    /* border: solid 2px greenyellow; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+}
+.text > p {
+    /* border: solid 2px; */
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    text-align:center;  
+}
+.edu-id > h1 h2 h3{
+    text-align: center;
+    font-size: 20px;
+
+}
+.fb, .insta, .twi{
+    color: black;
+    font-size: 30px;
+}
+
+.micaruosel{
+    width: 100%;
+    height: 300px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: solid 1px red; */
+    background: url("./w.png");
+    background-position-x: center;
+    background-position-y: center;
+
+}
+.carousel-control-prev-icon , .carousel-control-next-icon , .carousel-indicators > li{
+    filter: invert(100%) !important;
+}
+
+.fotos{
+    /* margin-; */
+    width: auto;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+}
+.srm{
+    /* border: solid 2px royalblue; */
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+.CV{
+    background: black;
+    border: solid 2px;
+    border-radius: 30px;
+    text-align: center;
+    
+    
+}
+.CV > a{
+    color: white;
+}
+.ing-cv{
+    /* border: solid 2px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.cv-p{
+    /* border: solid 2px ; */
+    margin: 20px;
+    text-align: center;
+}
+.cv-b{
+    border: solid 2px black;
+align-self: flex-end;
+border-radius: 20px;
+background: black;
+color: white;
+
+}
+.b-des{
+   width: 100%;
+    background: black;
+    color: white !important;
+}
+.c-bd{
+    background: black;
+}
+.modal-dialog{
+    max-width: 900px !important;
+}
